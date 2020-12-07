@@ -12,6 +12,7 @@ body > input[type="checkbox"]:checked ~ header .container .navbar{max-height: 26
 } */
 /*=== End body ===*/
 /*=== Start header ===*/
+body header{padding: 20px 0px;}
 body header > .container{width: 90%;margin: auto;}
     /* Start NavBar */
 body header > .container .navbar{display: flex;position: relative;justify-content:space-between;align-items:center;padding: 15px 0px 10px;overflow: hidden;max-height: 65px;transition: max-height 1s;}
